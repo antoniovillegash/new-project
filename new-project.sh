@@ -1,7 +1,7 @@
 #!/bin/bash
 
-Path="/home/tony/Programas/" #change path to your projects folder
-GitUser="antoniovillegash" #set your github user
+Path="/ROUTE/OF/DIRECTORIE" #change path to your projects folder
+GitUser="USER" #set your github user
 Extension=""
 Folder=""
 case "$1" in
